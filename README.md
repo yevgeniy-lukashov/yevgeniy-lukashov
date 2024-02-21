@@ -20,7 +20,7 @@ SoftServe**
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>  
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/Npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
