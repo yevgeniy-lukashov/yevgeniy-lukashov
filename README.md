@@ -57,5 +57,5 @@ SoftServe**
   </div>
    ㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
-<a href="https://u8views.com/github/yevhenii-lukashov"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/yevhenii-lukashov"><img src="https://u8views.com/api/v1/github/profiles/160718215/views/day-week-month-total-count.svg"></a>
 </div>
