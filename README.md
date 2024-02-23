@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevgeniy Lukashov</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevgeniy Lukashov </br>
+<span>This is my second account. The main one is still blocked by GitHub</span></h1>
 <h3 align="center">Designing the code that shapes the world of innovation.</h3>
 <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/section-hero.png">
   
@@ -30,7 +31,7 @@ SoftServe**
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
