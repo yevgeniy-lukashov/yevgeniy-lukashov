@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevgeniy Lukashov </br>
-<span>This is my second account. The main one is still blocked by GitHub</span></h1>
+<span>This is my second account. The main (github.com/EuJinnLucaShow) one is still blocked by GitHub</span></h1>
 <h3 align="center">Designing the code that shapes the world of innovation.</h3>
 <img src="https://github.com/yevhenii-lukashov/yevhenii-lukashov/blob/main/section-hero.png">
   
